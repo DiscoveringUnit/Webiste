@@ -30,7 +30,7 @@ a:active{
     color:rgb(2, 46, 0)
 }
 a:hover{
-    font-size: 40px
+    font-size: 40px;
 }
 #Addvirt{
     height: 150px;
